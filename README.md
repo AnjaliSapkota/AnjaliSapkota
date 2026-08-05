@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=745&height=44&lines=%F0%9F%92%BB%20AI%2FML%2C%20Backend%20Development%2C%20and%20Data%20Science" alt="Typing headlines" />
 </p>
 
-### 💻 Most Used Languages
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=AnjaliSapkota&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" />
